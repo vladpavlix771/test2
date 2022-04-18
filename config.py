@@ -1,0 +1,3 @@
+bot_token = "1284008799:AAHkBJn1Rjlt6aI64HOxnAV15Sbk607mLNs"
+qiwi_number = "+79967063255"
+bitcoin_adress = "1324930511:AAH4E9IrvLWtsEPTHiM8BAbpS7r0998BFds"
